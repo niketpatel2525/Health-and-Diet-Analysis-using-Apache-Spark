@@ -1,0 +1,38 @@
+@CHARSET "ISO-8859-1";
+
+.jumbotron .page-title {
+	font-size: 50px;
+	color: white;
+}
+
+.container .jumbotron {
+	background-color: #D9534F;
+	border-radius: 25px;
+	height: 50%;
+}
+
+body {
+	background-color: #D9534F;
+}
+
+#card {
+	background-color: #F0AD4E !important;
+	border-radius: 25px !important;
+}
+
+.card-content {
+	height: 150px !important;
+}
+
+.card-action {
+	border-radius: 25px !important;
+}
+
+.container {
+	width: 90% !important;
+}
+
+input {
+	border-radius: 25px !important;
+}
+
